@@ -25,7 +25,7 @@ The research project is open-ended, and you are encouraged to be creative and fo
   * `..._translated_cds.faa.gz`: translated amino acid sequences of the predicted genes 
   * `..._rna_from_genomic.fna.gz`: predicted non-coding RNA genes
   * `..._genomic.fna.gz`: the assembled genomic data (might be in multiple contigs)
-* Use [The Genome Taxnomy Database](https://gtdb.ecogenomic.org/) (GTBD), a very comprehensive and well-structured database.
+* Use the [Genome Taxnomy Database](https://gtdb.ecogenomic.org/) (GTBD), a very comprehensive and well-structured database.
   * [Taxonomy labels](https://data.ace.uq.edu.au/public/gtdb/data/releases/release220/220.0/bac120_taxonomy_r220.tsv.gz): 
   * [Full genomes](https://data.ace.uq.edu.au/public/gtdb/data/releases/release220/220.0/genomic_files_reps/gtdb_genomes_reps_r220.tar.gz) (at least a representative genome for each species or maybe strain)
   * [Subset of marker genes, aligned in an MSA](https://data.ace.uq.edu.au/public/gtdb/data/releases/release220/220.0/genomic_files_reps/bac120_msa_marker_genes_reps_r220.tar.gz") -- maybe one could use this as a much smaller set of genes per genome to play with.
