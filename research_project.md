@@ -14,6 +14,9 @@ The research project is open-ended, and you are encouraged to be creative and fo
 
 ### Labeled gene sequences
 * Search by NCBI gene ID or gene family name: https://www.ncbi.nlm.nih.gov/gene. This is for downloading individual gene sequences, one at a time.
+  * Download gene families from UniRef, part of [UniProt](uniprot.org). Brief walkthroughs:
+    * [Downloading protein sequences from UniRef](https://www.youtube.com/watch?v=5M9i1S83oF4)
+    * [Picking more similar UniRef clusters](https://www.youtube.com/watch?v=JujALccwA6k) (for harder classification)
   * To get ideas for names of genes, you can find lists of antibiotic resistance genes and virulence genes [here](https://www.ncbi.nlm.nih.gov/pathogens/refgene/), and names of metabolic genes [here](http://www.cazy.org) (Click on an enzyme class, then a family, then click the "Characterized" tab, and use either the GenBank or UniProt links to open individual genes and download a FASTA.
 * For 16s rRNA genes with taxonomic labels, you can find a dataset [here](https://ftp.microbio.me/greengenes_release/2024.09/). Specifically the taxonomy file (`...taxonomy.asv.tsv.gz`) has ASV sequences (of varying lengths) and the predicted taxonomic label. There are 23 million sequences.
 
