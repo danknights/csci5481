@@ -1,5 +1,5 @@
 # Links to data for research project
-The research project is open-ended, and you are encouraged to be creative and follow your own interests. However, many students end up wanting to use common types of data and resources, so I have gathered frequently used advice and links here. They are organized according to the data type. This list is far from exhaustive; it is merely scratching the surface of what is available online.
+The following are links to frequently used online sources of public genomic data. They are organized according to the data type. This list is far from exhaustive; it is merely scratching the surface of what is available online.
   
 ## Data sources
 
