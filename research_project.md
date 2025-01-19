@@ -33,6 +33,9 @@ The following are links to frequently used online sources of public genomic data
   * [Full genomes](https://data.ace.uq.edu.au/public/gtdb/data/releases/release220/220.0/genomic_files_reps/gtdb_genomes_reps_r220.tar.gz) (at least a representative genome for each species or maybe strain)
   * [Subset of marker genes, aligned in an MSA](https://data.ace.uq.edu.au/public/gtdb/data/releases/release220/220.0/genomic_files_reps/bac120_msa_marker_genes_reps_r220.tar.gz") -- maybe one could use this as a much smaller set of genes per genome to play with.
   
-  
+### Gene expression/other omics data
+* GEO (Gene Expression Omnibus): [https://www.ncbi.nlm.nih.gov/gds/](https://www.ncbi.nlm.nih.gov/gds/). Contains many gene expression datasets. Search or browse by disease, study, organism.
+* GTEx (Genotype-Tissue Expression Project): [https://www.gtexportal.org/home/](https://www.gtexportal.org/home/). Gene expression data across 50+ tissue types from 1000+ donors.
+* ENCODE: [https://www.encodeproject.org/data/annotations/](https://www.encodeproject.org/data/annotations/). Chromatin-accessibility data, RNA-Seq data, ChIP-Seq, transcription factor binding data, DNA methylation data, and more.
   
 
